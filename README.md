@@ -6,7 +6,6 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌍 Based in Croatia, with a global outlook on technology.  
 - 🎓 Graduated in **Software Engineering** from the **University of Zagreb**.  
 - 🔐 Currently diving deep into **Cyber Security** — from fundamentals to hands-on labs.  
 - 📚 Passionate about secure coding, ethical hacking, and network defense.  
