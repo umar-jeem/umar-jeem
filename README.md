@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Md Umar Hasas  
+# 👋 Hi, I'm Md Umar Hasan  
 
 🎓 **Software Engineer** (University of Zagreb, Croatia)  
 🔐 **Cyber Security Enthusiast** | Lifelong Learner  
